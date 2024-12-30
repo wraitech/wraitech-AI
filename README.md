@@ -1,5 +1,7 @@
 # wraitech - 探究学習を支援するAIウェブアプリケーション
 
+![wraitech-logo](https://ucarecdn.com/4024b86f-111c-413e-a08e-45009914f61f/wraitechver31.png)
+
 ## 🌟 インスピレーション  
 wraitechは、文部科学省が推奨する「総合的な探究の時間」の理念を参考に開発されました。「生成AIをつくるには」という個人探究テーマからインスパイアされ、学生が考える力を育むためのツールとして設計されています。
 
@@ -50,6 +52,8 @@ wraitechで使用しているDifyのワークフローは、オープンソー�
 ---
 
 ## 🚀 使い方
+
+![wraitech-chat](https://ucarecdn.com/7a47930d-763a-4e1f-b35c-d22e27535e40/wraitechsearch.png)
 
 1. **テーマ入力**  
    探究テーマや質問を入力してチャットを開始します。  
